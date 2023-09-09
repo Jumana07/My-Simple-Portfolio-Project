@@ -45,7 +45,7 @@ The My Simple Portfolio Project utilizes the following dependencies:
 - None.
 
 ## Customization
-Jumana Haseen has customized the My Simple Portfolio Project to reflect her personal style and showcase her skills and projects. The customization includes:
+Jumana Haseen has customized the My Simple Portfolio Project template to reflect her personal style and showcase her skills and projects. The customization includes:
 
 - Modification of the HTML structure to add relevant content and sections.
 - Customization of the CSS (style.css) file to apply Jumana's preferred styles, colors, and layout.
